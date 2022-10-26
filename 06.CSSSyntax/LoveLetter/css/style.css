@@ -1,0 +1,54 @@
+html {
+  background-color: #fff;
+  background-image: url(../img/tile.png);
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 22px;
+  font-weight: 100;
+  text-align: left;
+  line-height: 1.5;
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 100;
+  line-height: 4;
+}
+
+span {
+  color: #b22222;
+}
+
+body {
+  border: 10px solid white;
+  background-image: url(../img/bg.png);
+  background-size: cover;
+  height: 600px;
+  margin: 20px auto;
+  max-width: 300px;
+  padding: 40px 100px;
+  font-family: "Satisfy", cursive;
+}
+
+mark {
+  background-color: transparent;
+  background-color: #b22222;
+}
+
+footer {
+  margin-top: 40px;
+}
+
+footer p {
+  margin: 5;
+  text-align: right;
+  font-size: 15px;
+  font-family: fantasy;
+}
+
+.date {
+  margin-top: 10px;
+}
